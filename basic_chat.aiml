@@ -1,0 +1,37 @@
+<?xml version="1.0.10" encoding="UTF-8"?>
+<aiml>
+<!-- basic_chat.aiml -->
+	
+	<category>
+		<pattern>HELLO</pattern>
+		<template>
+			Well, hello!
+		</template>
+	</category>
+
+	<category>
+		<pattern>WHAT IS YOUR NAME</pattern>
+		<template>
+			My name is JOJO!
+		</template>
+	</category>
+	
+	<category>
+		<pattern>TELL ME SOMETHING</pattern>
+		<template>
+			<random>
+				<li>Do you know I am made by Uddipaan.</li>
+				<li>How are you today.</li>
+				<li>Please be more specific.</li>
+			</random>
+		</template>
+	</category>
+
+	<category>
+		<pattern>WHAT IS YOUR COMMON DIALOGUE</pattern>
+		<template>
+			Lets get to our interesting part. <br/>XD XD
+		</template>
+	</category>
+
+</aiml>	
