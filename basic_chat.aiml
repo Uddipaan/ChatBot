@@ -39,7 +39,7 @@
 		<template>
 			<random>
 				<li>Sorry, I didn't quite get it!</li>
-				<li>You can exit by simply typing quit .</li>
+				<li>You can exit by simply typing quit. But I would love to talk to you. :)</li>
 			</random>
 		</template>
 	</category>

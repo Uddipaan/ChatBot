@@ -16,3 +16,4 @@ while True:
 	else: 	       	
 		bot_response = kernel.respond(message)
 		print bot_response
+
